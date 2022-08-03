@@ -7,3 +7,5 @@ streamlit.text('🥗 Dosa, Idli and sambhar')
 streamlit.text('🥑 Poha, Misla Pav & Kaju Shake')
 streamlit.text('🐔 Eggs & Boliled chicken')
 streamlit.text('🍞  Avocado Toast')
+
+streamlit.title('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
