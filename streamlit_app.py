@@ -4,5 +4,5 @@ streamlit.title('My Parents New Healthy Dinner')
 
 streamlit.header('Breakfast menu')
 streamlit.text('Dosa, Idli and sambhar')
-streamlit.text('Poha, Misla Pav & Kaju Shake)
+streamlit.text('Poha, Misla Pav & Kaju Shake')
 streamlit.text('Eggs & Boliled chicken')
