@@ -41,6 +41,7 @@ except URLERROR as e:
      streamlit.error()
 
 #streamlit.stop()
+fruityvice_response = requests.get("https://fruityvice.com/api/fruit/"+fruit_choice)
 
 streamlit.header("The fruit load list contains:")
 def get_fruit_load_list():
@@ -65,5 +66,5 @@ if streamlit.button('Add a fruit to the List'):
       streamlit.text(back_from_function)
 
 #import requests
-fruityvice_response = requests.get("https://fruityvice.com/api/fruit/"+fruit_choice)
+
 
